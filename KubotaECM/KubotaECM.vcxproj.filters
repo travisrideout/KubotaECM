@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="KubotaECM.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.KubotaECM.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
